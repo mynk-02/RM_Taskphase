@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 int i_matrix(int x, int y, int l[10][10]) 
 {
     for (int i=0;i<x;i++) {
@@ -41,14 +40,12 @@ void m_trans(int x,int y,int a[10][10],int a_[10][10])
 }
 
 
-
 int main()
 {
     int m,n,p,q;
     int A[10][10],B[10][10];
     int A_[10][10],B_[10][10],C[10][10]={0},C_[10][10],D[10][10]={0};
     
-
     cout <<"dimension of matrix A: ";
     cin >> m >> n;
     cout <<"dimension of matrix B: ";
@@ -65,15 +62,12 @@ int main()
         return 0;
     }
 
-
     m_trans(m,n,A,A_);//A_ = A'
     m_trans(p,q,B,B_);//B_ = B'
     m_multi(m,n,p,q,A,B,C);// C = AxB
     m_trans(m,q,C,C_);//C_ = C'
     m_multi(q,p,n,m,B_,A_,D);// D = B'x A'
 
-    
-    
     cout << "To Prove: (A.B)' = B'.A' \n";
     cout << "\nLHS: (A.B)' =" ; //printing LHS
     m_print(q,m,C_);
@@ -89,7 +83,5 @@ int main()
         }
     }
     cout << "LHS = RHS. Hence Proved!";
-    
-    
     return 0;
 }

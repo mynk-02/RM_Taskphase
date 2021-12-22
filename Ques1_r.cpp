@@ -5,7 +5,7 @@ using namespace std;
 void str_b_sort(string str) {
     int n=str.length();
     for (int i=1;i<n;i++) {
-        for (int j=0;j<n-1;j++) {
+        for (int j=0;j<n-i;j++) {
             if (str[j]> str[j+1]) {
                 char temp=str[j];
                 str[j]=str[j+1];

@@ -1,5 +1,7 @@
 #include<iostream>
+#include<chrono>
 using namespace std;
+using namespace std::chrono;
 
 int fibo(int n){
     if (n==1) { return 0;}
@@ -14,11 +16,15 @@ int main()
 
     cout << "enter to start!";
     cin.ignore();//accepts enter to execute the rest of the code 
-
+    
+    auto start = high_resolution_clock::now();//timer starts now
     for (int i=1;i<n+1;i++){
         term = fibo(i);
         cout << term << endl;
     }
+    auto stop = high_resolution_clock::now();//timer stops now
+    auto duration = duration_cast<seconds>(stop - start);
+    cout << "Time taken by function is less than " << duration.count() + 1 << " seconds\n";
 
     return 0;
 }

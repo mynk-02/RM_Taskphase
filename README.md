@@ -1,12 +1,12 @@
 # Weekly Report 1:
-#### NAME:  ##### Mayank Raj
-#### **SUBSYSTEM:**  Coding
-#### **DATE OF SUBMISSION:**  26/12/2021
-#### **REPORTING PROGRESS FROM:**  20/12/2021 - 26/12/2021
+#### NAME:  Mayank Raj
+#### SUBSYSTEM:  Coding
+#### DATE OF SUBMISSION:  26/12/2021
+#### REPORTING PROGRESS FROM:  20/12/2021 - 26/12/2021
 
 # Progress: 
 **I) C++**
-        1) Learned Syntax, Different Datatypes, Pointers, Functions, Recursion, 1D & 2D Array.
+ ######       1) Learned Syntax, Different Datatypes, Pointers, Functions, Recursion, 1D & 2D Array.
         2) Completed Worksheet1.
       
 **II) GitHub**

@@ -1,8 +1,8 @@
 # Weekly Report 1:
-#### **Name:**  Mayank Raj
-#### **Subsystem:**  Coding
-**Date of Submission:**  26/12/2021
-**Reporting Progress from:**  20/12/2021 - 26/12/2021
+#### NAME:  ##### Mayank Raj
+#### **SUBSYSTEM:**  Coding
+#### **DATE OF SUBMISSION:**  26/12/2021
+#### **REPORTING PROGRESS FROM:**  20/12/2021 - 26/12/2021
 
 # Progress: 
 **I) C++**

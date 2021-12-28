@@ -6,4 +6,5 @@
 
 # WEEK2:
 ## Tinkercad
-^ 1) RGB LED
+1) RGB LED
+2) bih

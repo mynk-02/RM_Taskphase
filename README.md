@@ -3,3 +3,7 @@
 #### Microprocessor and Microcontroller.
 #### GitBash basic commands.
 #### Tinkercad account created.
+
+# WEEK2:
+## Tinkercad
+^ 1) RGB LED

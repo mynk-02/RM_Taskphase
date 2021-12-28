@@ -5,6 +5,6 @@
 #### Tinkercad account created.
 
 # WEEK2:
-## Tinkercad
+## Tinkercad:
 1) RGB LED
 

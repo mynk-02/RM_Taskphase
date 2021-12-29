@@ -1,2 +1,2 @@
-Switchboard as Input
-LED on/off
+1) Switchboard as Input
+2) LED on/off

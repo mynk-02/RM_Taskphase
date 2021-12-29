@@ -6,5 +6,8 @@
 
 # WEEK2:
 ### Tinkercad:
-1) RGB LED
+1) RGB LED, LED, Buildin LED
+2) Switchboard
+3) Servo motor
+4) Ultrasonic Sensor
 

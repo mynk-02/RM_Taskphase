@@ -11,3 +11,7 @@
 3) Servo motor
 4) Ultrasonic Sensor
 5) Motor and motor driver
+6) Worksheet completed.
+### Theory:
+1) differential and holonomic drive.
+2) omni & mecanum wheels.

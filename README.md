@@ -15,3 +15,11 @@
 ### Theory:
 1) differential and holonomic drive.
 2) omni & mecanum wheels.
+
+# WEEK3:
+### Theory:
+1) Motor driver (mdd10a)
+2) DC Motor
+### Tinkercad:
+1) Arduino PWM pins for analog input
+2) DC motor
